@@ -31,6 +31,7 @@
  max-width: 60vw;
  position: absolute;
  top: 15vh;
+ z-index: 50;
  }
 
 #panorama {
