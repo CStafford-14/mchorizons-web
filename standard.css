@@ -16,6 +16,7 @@ Kufam (Bold): font-family: 'Kufam', cursive;
  border: 0px;
  position: sticky;
  top: 0;
+ z-index: 100;
 }
 
 .csi {
@@ -88,6 +89,7 @@ border-top-style: solid;
 border-color: grey;
 position: sticky;
 top: 50;
+z-index: 100;
 }
 
 .buttongrid {
